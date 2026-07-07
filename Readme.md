@@ -1,0 +1,1 @@
+Excerise for openai test 
